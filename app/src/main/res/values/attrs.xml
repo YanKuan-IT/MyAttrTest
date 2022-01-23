@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyDefStyle">
+        <attr name="android:text" />
+        <attr name="mTextColor" format="color" />
+        <attr name="mTextSize" format="dimension" />
+        <attr name="attr1" format="string" />
+    </declare-styleable>
+</resources>
